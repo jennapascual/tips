@@ -1,10 +1,12 @@
-This is an iOS demo application for calculating tips.
+This is an iOS demo application for calculating tip amounts and total bill amounts for any given bill amount.
 
-Time spent: 1.5 hours spent in total
+Time spent: 2 hours spent in total
 
 Completed user stories:
 
-Required: User can input bill amount and select tip percentage
-Required: User can toggle between percentage amounts and automatically see new amounts
-Required: User can tap outside of text field/bill amount to make keyboard disappear
+Required: User can input bill amount and select between four tip percentages
+Required: User can toggle between four percentage amounts and automatically see new tip amounts and total bill amounts
+Required: User can tap outside of the bill amount text field to make keyboard disappear
 Required: User can see dollar signs and two decimal places
+
+Can't figure out how to include/attach .gif I recorded using LICEcap, so please let me know how I can do this (or I can email the file to you). 
