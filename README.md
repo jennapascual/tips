@@ -7,3 +7,4 @@ Completed user stories:
 Required: User can input bill amount and select tip percentage
 Required: User can toggle between percentage amounts and automatically see new amounts
 Required: User can tap outside of text field/bill amount to make keyboard disappear
+Required: User can see dollar signs and two decimal places
