@@ -11,4 +11,4 @@ Required: User can see dollar signs and two decimal places
 
 Can't figure out how to include/attach .gif I recorded using LICEcap, so please let me know how I can do this (or I can email the file to you). 
 
-![](https://github.com/jennapascual/tips/blob/master/test_image.gif)
+![](https://github.com/jennapascual/tips/blob/master/Jenna's%20Tip%20Calculator.gif)
